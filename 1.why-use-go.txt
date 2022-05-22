@@ -1,0 +1,7 @@
+- Go goes fast
+    - Go is one of the fastest programming languages
+    - There is no intermediary interpretation step
+    - Go is slower than other compiled languages (C, Rust, etc). 
+    Go runtime takes up a certain amount of resources managing memory
+- Go is strongly typed
+- Go programs are easy on memory
